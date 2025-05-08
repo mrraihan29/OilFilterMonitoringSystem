@@ -1,4 +1,4 @@
-# Oil Filter Clogging Prediction and Monitoring Mobile App  
+# Oil Filter Clogging Prediction and Monitoring Mobile App (On Process)
 
 This repository hosts the development of a **mobile application** and **machine learning models** designed to predict and monitor oil filter clogging in fuel transport vehicles. The project supports preventive maintenance strategies, reducing operational costs and improving fleet reliability for Pertamina fuel transport vehicles.  
 
